@@ -46,7 +46,7 @@ on:
       PRODUCT_NAME:
         description: "Product to build:"
         required: true
-        default: "lineage_fire"
+        default: "lineage_fire-ap1a"
       BUILD_COMMAND:
         description: 'Command to be used for compiling:'
         required: true
